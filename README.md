@@ -7,7 +7,7 @@ A repository to keep track of my programming exercises and mini-projects in Pyth
 The project is organized into separate directories based on the programming language:
 
 *   **`Python/`**: Contains basic Python scripts and tools (e.g., Calculator, Digital Clock, Number Guessing Game, Rock Paper Scissors, To Do List).
-*   **`C++/`**: Dedicated space for C++ exercises, algorithms, and practice codes.
+*   **`C++/`**: Dedicated space for C++ exercises, algorithms, and practice codes (e.g., Calculator, Login System, Bank Management).
 
 ## 🛠️ How to Run
 
